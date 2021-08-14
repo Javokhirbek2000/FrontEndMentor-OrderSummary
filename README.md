@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Javokhirbek2000/FrontEndMentor-OrderSummary]
-- Live Site URL: [https://javokhirbek2000.github.io/FrontEndMentor-OrderSummary/]
+- Solution URL: [GitHub Repository](https://github.com/Javokhirbek2000/FrontEndMentor-OrderSummary)
+- Live Site URL: [Deployed page](https://javokhirbek2000.github.io/FrontEndMentor-OrderSummary/)
 
 ## My process
 
