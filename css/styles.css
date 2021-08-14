@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: "Red Hat Display", sans-serif;
+  box-sizing: border-box;
+  background-image: url("/order-summary-component-main/images/pattern-background-desktop.svg");
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 28%;
+  height: 85vh;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.header-img img {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.info {
+  text-align: center;
+  width: 80%;
+  margin: 15px auto;
+}
+
+.info h1 {
+  margin: 0;
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+
+.info p {
+  color: hsl(224, 23%, 55%);
+  margin: 15px auto;
+  font-weight: 500;
+}
+
+.order {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 80%;
+  background-color: hsl(225, 100%, 98%);
+  margin: 15px auto;
+  border-radius: 10px;
+  align-items: center;
+  padding: 20px;
+  font-weight: 500;
+}
+
+.order a {
+  font-weight: 700;
+}
+
+.order a:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+.order h3 {
+  margin: 0 0 5px 0;
+  color: hsl(223, 47%, 23%);
+}
+
+.order span {
+  color: hsl(229, 13%, 47%);
+}
+
+.buttons {
+  margin-top: 30px;
+}
+.buttons button {
+  display: block;
+  width: 80%;
+  margin: 4px auto;
+  height: 40px;
+  border-radius: 10px;
+  padding: 5px;
+  border: 0;
+  font-weight: 700;
+}
+
+.btn-1 {
+  background-color: hsl(245, 75%, 52%);
+  color: white;
+}
+
+.btn-1:hover {
+  background-color: hsl(245, 75%, 52%);
+  opacity: 0.7;
+}
+
+.btn-2 {
+  color: hsl(224, 23%, 55%);
+  background-color: white;
+}
+
+.btn-2:hover {
+  color: hsl(223, 47%, 23%);
+}
+
+@media (max-width: 375px) {
+  .card {
+    width: 90%;
+    height: 95vh;
+  }
+  .order {
+    flex-wrap: wrap;
+  }
+  .buttons button {
+    height: 30px;
+  }
+  .info h1 {
+    font-size: 1.7em;
+  }
+}
