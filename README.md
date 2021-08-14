@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Javokhirbek2000/FrontEndMentor-OrderSummary)
-- Live Site URL: [Add live site URL here](https://javokhirbek2000.github.io/FrontEndMentor-OrderSummary/)
+- Solution URL: [https://github.com/Javokhirbek2000/FrontEndMentor-OrderSummary]
+- Live Site URL: [https://javokhirbek2000.github.io/FrontEndMentor-OrderSummary/]
 
 ## My process
 
@@ -58,5 +58,5 @@ I would like to add more functionality by adding backend features to my project
 
 ## Author
 
-- Website - [Add your name here](https://t.me/Code_Breaker_2000)
-- Telegram - [@yourusername](https://t.me/Code_Breaker_2000)
+- Website - [Jack](https://t.me/Code_Breaker_2000)
+- Telegram - [Jack](https://t.me/Code_Breaker_2000)
